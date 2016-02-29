@@ -4,7 +4,7 @@ This Conference Planning Playbook is started by [@winstonyw](https://twitter.com
 and mainly details his process and experience in executing the conference.
 
 RedDotRubyConf (RDRC) started in 2011 and is held annually in Singapore. It is South East Asia's biggest Ruby conference.
-Every year, RDRC brings 350+ Rubyists of all levels together for an intimate sharing of the latest technical knowledge.
+Every year, RDRC brings about 350 Rubyists of all levels together for an intimate sharing of the latest technical knowledge.
 
 Past speakers of RDRC includes Matz, Koichi Sasada, Jim Weirich, Aaron Patterson, Linda Liukas, Laurent Sansonetti and many more:
 
@@ -28,9 +28,9 @@ On to the Playbook!
 
 :warning: Conference organization is really a full time job. It will take up A LOT of your time. :heart:
 
-Personally, I believe that it's important to abide by consistency and integrity when planning the conference as you will have to face a lot of strange situations with sponsorships, ticketing etc.
+Personally, I believe that it's important to abide by consistency and integrity when planning the conference as you will probably have to respond to a lot of different requests with sponsorships, ticketing etc.
 
-Hence it's good to have identical replies to all parties to avoid situations where fairness becomes an issue.
+The point is: Have identical responses to avoid situations where fairness becomes an issue.
 
 In fact, it's not only about the conference. You should be consistent and have integrity in life too. :smile:
 
@@ -42,92 +42,98 @@ You want folks who are meticulous, motivated, can't stop thinking about the comm
 
 ### Conference Format
 
-Decide the conference format:
+Decide on the conference format:
 
-#### Days
+#### 1. Days
 
-How many days? Will you have enough speakers/audience? Recommendation is to 1 day for a new conference.
+How many days? Will you have enough speakers/audience?
 
-#### Tracks
+If it's a new conference, it might be prudent to do a one-day conference for the first year.
+
+#### 2. Tracks
 
 How many tracks? Will you have enough speakers/audience? Is the audience getting value from the different tracks?
 
-#### Keynotes
+#### 3. Keynotes
 
-Plan the schedule and decide on slots for keynotes.
+How many keynote speakers and when's their slot in the schedule?
 
-#### Call-for-Proposal (CFP)
+How much time for each keynote?
 
-Plan the schedule and decide on slots for CFP talks. How much time for each talk?
+#### 4. Call-for-Proposal (CFP)
+
+How many CFP speakers and when's their slot in the schedule?
+
+How much time for each CFP talk?
 
 ### Conference Dates
 
 Decide the conference dates:
 
-#### Days of Week
+#### 1. Days of Week
 
 RDRC started as a Friday, Saturday event, but was eventually moved to Thursday and Friday.
 
-#### Season
+#### 2. Season
 
 Any considerations for weather? Singapore is a tropic country and generally hot throughout.
 
 In Singapore, December/January has its fair share of rain, and August/September is susceptible to haze..
 
-#### Clashes
+#### 3. Clashes
 
 Any major events in your country? Is it complementary to have the conference around the dates or better to avoid them?
 
-Any other local or international conferences around the same dates. Check rubyconferences.org.
+Any other local or international conferences around the same dates? Check rubyconferences.org.
 
 ### Conference Venue
 
 Source for a venue. Considerations include:
 
-#### Cost
+#### 1. Cost
 
 Venues can easily take up a huge chunk of your budget.
 
 Some venues provides catering as well which explains the higher cost. Going ala-carte might help bring the cost down.
 
-#### Location
+#### 2. Location
 
 Is it accessible? Preferably near a MRT station.
 
-#### Seats
+#### 3. Seats
 
-How are the seat?s Attendees sit for 5-6 hours. Hopefully they are comfortable.
+How are the seats? Attendees have to sit for 5-6 hours, so hopefully they are comfortable.
 
-#### Electricity
+#### 4. Electricity
 
-Possible to have charging points for laptops and phones?
+Is it possible to have charging points for laptops and phones?
 
-#### Space
+#### 5. Space
 
 Is there enough space outside the auditorium for meals and serendipitous mingling?
 
-#### Wifi?
+#### 6. Wifi?
 
 That's really debatable. Pick a side:
 
 - "This is a conference for developers and we all need internet".
 - "This is a conference. You should listen to the speakers".
 
-Do what's within your budget. Setting up wifi can sometimes be costly.
+Do what's within your budget. Setting up wifi can sometimes be quite costly too.
 
 ### Speaker Sponsorships
 
-What can you sponsor for your Keynote speakers, or CFP speakers:
+What can you sponsor for your keynote speakers, or CFP speakers:
 
-#### Flights
+#### 1. Flights
 
 Any restrictions on Flights Class (Economy, Business)? Any cap on total cost?
 
-#### Accommodation
+#### 2. Accommodation
 
 How many nights?
 
-#### Mode of Reimbursement
+#### 3. Mode of Reimbursement
 
 How will the $ be transferred?
 
@@ -139,7 +145,7 @@ You might even want to ping them 7-8 months in advance.
 
 ### Start Marketing
 
-Tell the Ruby community! Tweet it! Facebook it!
+Tell the community! Tweet it! Facebook it! Email!
 
 ### Budgeting
 
@@ -159,8 +165,9 @@ Things that I usually put up at this stage:
 
 - Dates and Location
 - Ticketing Link
+- CFP Link
 - Keynote Speakers
-- Code of Conduct
+- Code of Conduct (I chose http://confcodeofconduct.com/)
 - Sponsorship Details
 - Links like Facebook, Twitter etc.
 
@@ -168,11 +175,13 @@ Things that I usually put up at this stage:
 
 You'll want to have your sponsor kit ready too that list details for each sponsorship.
 
+**_To organise a conference with high quality content, DO NOT give away speaking slots in sponsorships._**
+
 ### Ticketing
 
 Things to consider:
 
-#### Platform
+#### 1. Platform
 
 In 2013, we hand-rolled our own. In 2014, Peatix. In 2015, EventBrite.
 
@@ -185,17 +194,33 @@ Ideally, the platform should have/be able to:
 - Easy registration on the day of the event
 - Analytics
 
-#### Price
+Platforms to consider:
+
+- https://www.ticketbase.com
+- https://www.eventbrite.sg/
+- http://peatix.com/
+- http://www.eventnook.com/
+
+Also, consider the pricing for the payment gateway:
+
+- Stripe SG Pricing:
+  - 3.4% + $0.50 per successful charge
+  - https://stripe.com/sg/pricing
+- PayPal SG Pricing:
+  - 3.9% + $0.50 per successful charge
+  - https://www.paypal.com/sg/webapps/mpp/paypal-fees
+
+#### 2. Price
 
 How much are you pricing the ticket? Early Bird? Percentage off via Discount Codes?
 
-**Prices should be tiered according to time**.
+**_Prices should be tiered according to time_**.
 
 Early Birds should have the biggest discount, and not those who buy tickets 1-2 weeks before the conference.
 
-#### Schedule
+#### 3. Schedule
 
-What is the schedule of selling tickets? Sale through event? Flash sale?
+What is the schedule of selling tickets? Tickets are available till the event? Flash sale?
 
 What is the schedule of releasing the discounts?
 
@@ -221,17 +246,17 @@ These are additional avenues to mingle and network with folks visiting from over
 
 ### Marketing
 
-Update your website.
+Update your website with speaker and sponsors information.
 
 Ping your friends and user groups again to buy tickets before any discounts expire.
 
 ### After Party
 
-Will the conference have Before/After Parties? Time to checkout those spots.
+Will the conference have Before/After Parties? Time to figure out where those would be.
 
 ### Swag
 
-Get T-shirt design ready! Think about other swag for your attendees.
+Get the T-shirt design ready! Think about other swag for your attendees.
 
 ### Logistics
 
@@ -262,19 +287,19 @@ Start printing your T-shirts, programs, posters and stickers.
 
 ### Plan Actual Day Logistics
 
-#### Emcee/Host
+#### 1. Emcee/Host
 
 Someone who knows the speakers (and what they are talking about).
 
-#### Cleaners
+#### 2. Cleaners
 
 The mess that 300 people generate can be pretty crazy.
 
-#### Venue Setup
+#### 3. Venue Setup
 
 How's the venue going to look like?
 
-#### Registrations
+#### 4. Registrations
 
 Who's doing the registrations? You need to take care of laggards too.
 
