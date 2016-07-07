@@ -105,7 +105,10 @@ Any major events in your country? Is it complementary to have the conference aro
 
 Any other local or international conferences around the same dates? Check rubyconferences.org.
 
-> RDRC Pick: Thursday and Friday in June. Developers should be given TIME OFF to upgrade themselves during office hours too.
+> RDRC Pick: Thursday and Friday in June.
+>
+> Developers should be given TIME OFF to upgrade themselves during office hours too.
+>
 > In some years, the dates were right in the fasting period for our Muslim friends. Avoid if possible.
 
 ### Conference Venue
@@ -285,11 +288,9 @@ At least it's stats which you can use to promote to sponsors for the following y
 
 CFP should be (almost?) done and you can start to review and reach out to the speakers to plan the conference schedule!
 
-Get the community to help rate the talks if possible, then do final curation
-based on content and diversity (first timer, origin, topic etc).
+Consider getting the local community to help rate the talks. Then do final curation based on content and diversity.
 
-Please remember to send out a note to all CFP participants to thank them for their submissions,
-whether they are selected or not.
+Please send a Thank You note to all CFP participants for their submissions, whether they are selected or not.
 
 Reserve Super Early Bird pricing for all CFP participants.
 
@@ -299,8 +300,8 @@ Will there be fringe activities around the conference? Meetups? Workshops?
 
 These are additional avenues to mingle and network with folks visiting from overseas.
 
-> RDRC Pick: Usually, I plan a workshop for the day before the conference, i.e. RubyMotion (2015) and React (2016).
-> And other community events on the day after the conference, i.e. RailsGirls or Open Source Breakfast Hack.
+> RDRC Pick: Usually, I plan a workshop for the day before the conference, i.e. RubyMotion (2015) and React (2016),
+> and other community events on the day after the conference, i.e. RailsGirls or Open Source Breakfast Hack.
 >
 > In 2016, I even organised a 1/2 Day tour for speakers and friends, with a real tour guide!
 
@@ -366,16 +367,16 @@ Speakers should be confirmed by this time, and flights mostly booked.
 Now you can book accommodation for speakers whose accommodation is sponsored.
 
 > RDRC Pick: [Big Hotel](http://www.bighotel.com/) or [Naumi Liora](http://naumihotels.com/naumiliora/)
+>
 > I also have transport arranged from conference hotel to conference venue in the mornings.
 
 ### Plan Speakers Dinner
 
 Plan for a nice dinner to thank the speakers!
 
-> RDRC Pick: I usually try and plan it near to the conference venue or the conference hotel,
-> so that it's easy to head there or go back and rest.
+> RDRC Pick: I try and plan it near to the conference venue or hotel, so that it's easy to go there or back to rest.
 >
-> Be mindful of the different diets!
+> Be mindful of the different diet requirements!
 >
 > - 2013: [Asia Grand Restaurant](http://www.hungrygowhere.com/singapore/asia_grand_restaurant_odeon_towers/)
 > - 2014: [Xi Yan](http://www.xiyan.com.sg/sg/)
@@ -415,7 +416,7 @@ How's the venue going to look like?
 
 Who's doing the registrations? You need to take care of laggards too.
 
-> RDRC Pick: My preference leans towards hiring part-timers for this, because anyone in the community
+> RDRC Pick: My preference leans towards hiring part-timers for registration, because anyone in the community
 > should be in the auditorium listening and learning from all the great talks, and not be stuck at the registration table.
 
 ### Send Reminder Emails
