@@ -1,7 +1,9 @@
-# Conference Planning Playbook (WIP)
+# Conference Planning Playbook
 
 This Conference Planning Playbook is started by [@winstonyw](https://twitter.com/winstonyw) who's been running [@reddotrubyconf](https://twitter.com/reddotrubyconf) since 2013,
 and mainly details his process and experience in executing the conference.
+
+(I have been dishing out advice to other conferences in Singapore and around the region too, so hope this helps!)
 
 RedDotRubyConf (RDRC) started in 2011 and is held annually in Singapore. It is South East Asia's biggest Ruby conference.
 Every year, RDRC brings about 350 Rubyists of all levels together for an intimate sharing of the latest technical knowledge.
@@ -12,7 +14,6 @@ Past speakers of RDRC includes Matz, Koichi Sasada, Jim Weirich, Aaron Patterson
 - [RDRC 2014 Website](http://rdrc2014.herokuapp.com), [Videos by Confreaks](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ7quxtkav1TYj8zOMqQQQV)
 - [RDRC 2015 Website](http://rdrc2015.herokuapp.com), [Videos by Confreaks](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZdMYKatu_nics8Pkjxl3-F)
 - [RDRC 2016 Website](http://rdrc2016.herokuapp.com), [Videos by Engineers.sg](https://www.youtube.com/playlist?list=PLECEw2eFfW7iiJpXtb_cYeKv5_A6Pd1tl)
-
 
 You might also be interested to read @winstonyw's retrospectives:
 
