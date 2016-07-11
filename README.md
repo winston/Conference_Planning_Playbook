@@ -149,7 +149,7 @@ Do what's within your budget. Setting up wifi can sometimes be quite costly too.
 
 > RDRC Pick: Biopolis.
 > - Venue rental is about SGD5,000 for 2.5 days (0.5 days for rehearsal + venue setup, the day before the conference).
-> - Near to Bouna Vista MRT
+> - Near to Buona Vista MRT
 > - 420+ seats, with eletrical points available under every seat
 > - No Wifi la.. But rented a few portable routers in 2016 from [Rentafi](https://www.rentafi.com/).
 
@@ -196,7 +196,7 @@ Tell the community! Tweet it! Facebook it! Email!
 
 ### Budgeting
 
-Who's paying? Who's absorbing the lost if turnout is bad?
+Who's paying? Who's absorbing the loss if turnout is bad?
 
 ---
 
